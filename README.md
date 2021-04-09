@@ -3,4 +3,4 @@
 Bài tập thực hành về MVVM + Clean Architecture
 
 Tài liệu:
-https://redmine.hybrid-technologies.co.jp/issues/13440
+https://redmine.hybrid-technologies.co.jp/issues/13442
